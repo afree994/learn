@@ -1,0 +1,66 @@
+body
+{
+     margin:0;
+     text-align:center;
+
+}
+
+.div1
+{
+    padding-top: 150px;
+ 
+}
+
+.pic
+{
+    width:175px;
+    border-radius: 50%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+
+.line
+{
+    width:80px;
+    height:6px;
+    background-color:black;
+    margin:8px auto;
+}
+
+#welcome
+{
+   background:linear-gradient(#bee8f7 0%, #f1f7ed 100%);
+    height:900px;
+    opacity:1;
+ 
+  
+    
+}
+
+h1
+{
+    font-size:40px;
+    line-height:1.2;
+    font-weight:300;
+    font-family: 'Pirata One', cursive;
+}
+
+h2
+{
+    font-size:30px;
+    line-height:1.0;
+    font-weight:200;
+}
+
+
+p
+{
+    max-width:450px;
+    margin:25px;
+    line-height:1.3;
+    font-size:17px;
+    margin-left:800px;
+   
+
+}
